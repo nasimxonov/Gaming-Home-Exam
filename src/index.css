@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-con {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.showcase-right {
+  background-image: url("./components/showcase/images/Container.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.showcase-left {
+  background-image: url("./components/showcase/images/Container-1.svg");
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,50 @@
+.showcase-bg-1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Link1.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.showcase-bg-2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Link2.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.showcase-bg-3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Link3.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.showcase-bg-4 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Link4.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.showcase-bg-5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Link5.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.showcase-bg-6 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Link6.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.btn-rhomb {
+  -webkit-transform: skewX(-15deg);
+  -moz-transform: skewX(-15deg);
+  -ms-transform: skewX(-15deg);
+  transform: skewX(-15deg);
+}
+
+.text-btn {
+  -webkit-transform: skewX(15deg);
+  -moz-transform: skewX(15deg);
+  -ms-transform: skewX(15deg);
+  transform: skewX(15deg);
+}
