@@ -2,7 +2,7 @@ import "./cat.css";
 import reklama from "./images/Link7.svg";
 const Category = () => {
   return (
-    <section className="mt-[60px] mb-[70px]"> 
+    <section className="mt-[60px] mb-[70px]">
       <div className="my-con">
         <div className="relative items-center h-[30px] mb-[30px]">
           <button className="absolute btn-rhomb bg-[#f4796c] py-[8px] px-[28px] rounded-[5px] z-[100]">
